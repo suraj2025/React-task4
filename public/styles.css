@@ -1,0 +1,27 @@
+img{
+    object-fit: cover;
+    height:40px;
+    width:40px;
+}
+.box{
+    background-color: rgb(30,30,30);
+}
+*{
+    color: white;
+}
+table{
+    border-collapse: collapse;
+    border-color: white;
+}
+td{
+    border: none;
+}
+th{
+    border-right: none;
+    border-left: none;
+}
+td,th{
+    
+    padding: 3px;
+    text-align: center;
+}
